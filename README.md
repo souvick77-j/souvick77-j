@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: A project involving predictive modeling for student performance using machine learning algorithms.<br>I'm looking to collaborate on: Open-source data science projects or building a simple AI-powered web application.<br>I'm looking for help with: Optimizing deep learning models for efficiency and understanding advanced neural network architectures.<br>I'm currently learning: PyTorch, natural language processing (NLP) techniques, and big data technologies like Spark.<br>Ask me about: Python programming, data visualization with Matplotlib/Seaborn, or the basics of supervised vs. unsupervised learning.<br>Fun fact: The amount of data generated globally is expected to exceed 180 zettabytes by 2025
+I'm currently working on: A project involving predictive modeling for student performance using machine learning algorithms.<br>I'm looking to collaborate on: Open-source data science projects or building a simple AI-powered .<br>I'm looking for help with: Optimizing deep learning models for efficiency and understanding advanced neural network architectures.<br>I'm currently learning: PyTorch, natural language processing (NLP) techniques, and big data technologies like Spark.<br>Ask me about: Python programming, data visualization with Matplotlib/Seaborn, or the basics of supervised vs. unsupervised learning.<br>Fun fact: The amount of data generated globally is expected to exceed 180 zettabytes by 2025
 
 
 ## 🌐 Socials:
@@ -15,8 +15,5 @@ I'm currently working on: A project involving predictive modeling for student pe
 ---
 [![](https://visitcount.itsvg.in/api?id=souvick77-j&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Souvick Sarkar) 
-
-  
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
